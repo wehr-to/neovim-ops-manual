@@ -18,11 +18,11 @@ Neovim is lightweight, customizable, and designed for control over convenience, 
 
 This is not a general-purpose Neovim guide. Everything here is focused on practical, security-relevant use cases.
 
-├── 01-getting-started/ # Basics and setup
-├── 02-core-config/ # My init.lua, plugin choices, and theme setup
-├── 03-terminal-workflows/ # SSH, tmux, fzf, productivity workflows
-├── 04-use-cases/ # Log analysis, config hardening, scripting
-├── 05-learning-path/ # Neovim vs VS Code, next steps
+- 01-getting-started/ # Basics and setup
+- 02-core-config/ # My init.lua, plugin choices, and theme setup
+- 03-terminal-workflows/ # SSH, tmux, fzf, productivity workflows
+- 04-use-cases/ # Log analysis, config hardening, scripting
+- 05-learning-path/ # Neovim vs VS Code, next steps
 
 
 - Each section is written from the lens of someone building real-world security and automation skills — not chasing aesthetics or hype.
